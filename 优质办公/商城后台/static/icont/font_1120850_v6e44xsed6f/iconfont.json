@@ -1,0 +1,79 @@
+{
+  "id": "1564228",
+  "name": "商城后台系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "810221",
+      "name": "箭头",
+      "font_class": "jiantou-copy-copy",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "810222",
+      "name": "箭头",
+      "font_class": "jiantou-copy-copy-copy",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "834070",
+      "name": "箭头_上",
+      "font_class": "icon_arrow_top",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1984643",
+      "name": "箭头_上",
+      "font_class": "jiantou_up",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "2402040",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1016749",
+      "name": "密码",
+      "font_class": "lock",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "5121527",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "7235211",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7408750",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "7588130",
+      "name": "用户",
+      "font_class": "yonghu2",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
